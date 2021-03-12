@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IvanVS140
+- 👀 I’m interested in back end development
+- 🌱 I’m currently learning Rust
